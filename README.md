@@ -1,7 +1,8 @@
 # C Calculator (Console Application)
 
-A simple calculator written in C that performs addition, subtraction, multiplication, and division.  
-This project demonstrates basic input handling, arithmetic operations, and CLI interaction in C.
+A console-based calculator written in C that supports multiple operations in a loop.  
+The program allows users to perform repeated calculations without restarting the application.  
+This project demonstrates input handling, arithmetic logic, control structures, and a clean CLI workflow.
 
 ---
 
